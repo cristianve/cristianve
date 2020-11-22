@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**cristianve/cristianve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 **Talking about Personal Stuffs:**
 
