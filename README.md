@@ -1,20 +1,21 @@
 ### Hi there 👋
 
-Hi, I'm Cristian, a Full Stack Developer 🚀 from Barcelona, currently, I'm a Software Engineer of  [IDNEO](https://www.idneo.com/), a Freelancer 👨🏽‍💻  for Sublimate and multyple projects. Beside's app's developing, I enjoy nature, food and party!
+Hi, I'm Cristian, a Full Stack Developer (Main Back-end) 🚀 from Barcelona, currently, I'm a Software Engineer of  [IDNEO](https://www.idneo.com/), a Freelancer 👨🏽‍💻  for Sublimate and multyple projects. Beside's app's developing, I enjoy nature, food and party!
 
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on IDNEO Technologies, S.A.U
 - 🌱 I’m currently learning Design and Architecture Software Master (La Salle BCN)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on any good project idea or any open source🤝
+- 🤔 I’m looking for help with Security and Optimization
+- 💬 Ask me about anything, I am happy to help others
 - 📫 How to reach me: Gmail or Linkedin
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 **Languages and Tools:**  
+**Main:**
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
