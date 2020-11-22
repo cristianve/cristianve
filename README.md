@@ -11,6 +11,7 @@ Hi, I'm Cristian, a Full Stack Developer (Main Back-end) 🚀 from Barcelona, cu
 - 💬 Ask me about anything, I am happy to help others
 - 📫 How to reach me: Gmail or Linkedin
 - 🌐 Porfolio personal web: https://cristianvega.dev/
+- 👨‍💻 Linkedin link: https://www.linkedin.com/in/cristianve/
 
 
 **Languages and Tools:**  
