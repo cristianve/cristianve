@@ -9,7 +9,7 @@ Hi, I'm Cristian, a Full Stack Developer (Main Back-end) 🚀 from Barcelona, cu
 - 👯 I’m looking to collaborate on any good project idea or any open source🤝
 - 🤔 I’m looking for help with Security and Optimization
 - 💬 Ask me about anything, I am happy to help others
-- 📫 How to reach me: Gmail or Linkedin
+- 📫 How to reach me: Gmail: 97cvega@gmail.com or Linkedin
 - 🌐 Porfolio personal web: https://cristianvega.dev/
 - 👨‍💻 Linkedin link: https://www.linkedin.com/in/cristianve/
 
