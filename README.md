@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Cristian, a Full Stack Developer (Main Back-end) 🚀 from Barcelona, currently, I'm a Software Engineer of  [IDNEO](https://www.idneo.com/), a Freelancer 👨🏽‍💻  for Sublimate and multyple projects. Beside's app's developing, I enjoy nature, food and hanging with friends!
+Hi, I'm Cristian, a Full Stack Developer (Main Back-end) 🚀 from Barcelona, currently, I'm a Software Engineer of  [IDNEO](https://www.idneo.com/), and Freelancer 👨🏽‍💻  for Sublimate and multyple projects. Beside's app's developing, I enjoy nature, food and hanging with friends!
 
 **Talking about Personal Stuffs:**
 
