@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Cristian, a Full Stack Developer (Main Back-end) 🚀 from Barcelona, currently, I'm a Senior Software Engineer of  [DowJones](https://www.dowjones.com/), and Freelancer 👨🏽‍💻  for Sublimate and multyple projects. Beside's app's developing, I enjoy nature, food and hanging with friends!
+Hi, I'm Cristian, a Full Stack Developer (Main Back-end) 🚀 from Barcelona, currently, I'm a Senior Software Engineer of  [Dow Jones](https://www.dowjones.com/), and Freelancer 👨🏽‍💻  for Sublimate and multyple projects. Beside's app's developing, I enjoy nature, food and hanging with friends!
 
 **Talking about Personal Stuffs:**
 
