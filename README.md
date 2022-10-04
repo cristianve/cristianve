@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Hi, I'm Cristian, a Full Stack Developer (Main Back-end) 🚀 from Barcelona, currently, I'm a Software Engineer of  [IDNEO](https://www.idneo.com/), and Freelancer 👨🏽‍💻  for Sublimate and multyple projects. Beside's app's developing, I enjoy nature, food and hanging with friends!
+Hi, I'm Cristian, a Full Stack Developer (Main Back-end) 🚀 from Barcelona, currently, I'm a Senior Software Engineer of  [DowJones](https://www.dowjones.com/), and Freelancer 👨🏽‍💻  for Sublimate and multyple projects. Beside's app's developing, I enjoy nature, food and hanging with friends!
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on IDNEO Technologies, S.A.U
+- 🔭 I’m currently working on Dow Jones – Business & Financial News, Analysis & Insight
 - 🌱 I’m currently learning Design and Architecture Software Master (La Salle BCN)
 - 👯 I’m looking to collaborate on any good project idea or any open source🤝
 - 🤔 I’m looking for help with Security and Optimization
